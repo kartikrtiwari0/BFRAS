@@ -3,3 +3,6 @@ numpy==1.18.1
 pandas
 pyrebase
 pathlib
+uuid
+opencv-contrib-python-headless
+pillow
